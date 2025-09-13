@@ -1,3 +1,3 @@
-file = open("notes.txt", "r")
+file = open("my_story.txt", "r")
 print(file.read())
 file.close()

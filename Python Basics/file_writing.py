@@ -1,3 +1,3 @@
-file = open("notes.txt", "w")
-file.write("Python is fun")
+file = open("my_story.txt", "w")
+file.write("I am learning Python and it is awesome!")
 file.close()
